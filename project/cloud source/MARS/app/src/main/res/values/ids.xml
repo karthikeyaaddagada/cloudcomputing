@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView4" type="id" />
+    <item name="spinner1" type="id" />
+    <item name="spinner2" type="id" />
+    <item name="spinner3" type="id" />
+    <item name="spinner4" type="id" />
+    <item name="spinner5" type="id" />
+    <item name="spinner6" type="id" />
+</resources>
